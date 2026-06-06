@@ -47,6 +47,6 @@ The analysis includes decomposition, stationarity testing, ACF/PACF diagnostics,
 ## Repository Contents
 
 ```text
-Time_Series_Forecasting_Assignment1.ipynb
-time_series_forecasting_assignment2.ipynb
+aapl_stock_price_forecasting.ipynb
+forecasting_anti_diabetic_drug_sales.ipynb
 README.md
